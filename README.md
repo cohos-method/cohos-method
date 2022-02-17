@@ -2,7 +2,7 @@
 
 The purpose of this repository is to demonstrate how to build a static webpage using github pages and plotly.
 
-* You can view this repo as a static web page here: https://cohos-method.github.io/cohos-method/
+* You can view this repo as a static web page here: https://cohos-method.github.io/the-cohos-method/
 * The notebook `create-html-plots.ipynb` can be used to produce the html files located in the `/docs` folder.
 
 Note:
